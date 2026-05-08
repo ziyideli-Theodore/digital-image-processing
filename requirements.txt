@@ -1,0 +1,10 @@
+langchain
+langgraph
+diffusers
+transformers
+torch
+torchvision
+Pillow
+opencv-python
+controlnet-aux
+ollama
